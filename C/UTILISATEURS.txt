@@ -1,0 +1,5 @@
+1 :Admin :Admin :admin@gmail.com :11/11/2000 :Casablanca :709123456 :AD :1234 
+2 :Chhaib :Fatima :chhaibfatima1@gmail.com :11/11/2000 :casablanca :708145283 :CL :1234 
+3 :Baraka :Zineb :zineb@gmail.com :21/11/2002 :Sidi_Hejjaj :708145283 :CL :1234 
+4 :El_Amari :Meriam :ElAmariMeriam@gmail.com :21/11/2002 :Sidi_Hejjaj :708145283 :CL :1234 
+5 :El_Amari :Meriam :ElAmariMeriam@gmail.com :21/11/2002 :Sidi_Hejjaj :708145283 :CL :1234 

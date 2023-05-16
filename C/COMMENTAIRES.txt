@@ -1,0 +1,5 @@
+1 :1 :3 :Tres_bon_produit_j_adore_le_rapport_qualite_prix_est_juste_tres_satisfaisant_Je_recommande :20/02/2020 
+2 :3 :4 :Super_J_aime_bien_je_recommande_cet_article_Magnifique :22/03/2021 
+3 :7 :2 :tres_jolie_robe_sa_taille_bien_la_qualite :19/03/2021 
+4 :5 :8 :La_robe_est_incroyable_Tres_joli_noir_la_matiere_et_tres_agreable :19/05/2021 
+5 :8 :7 :Parfait_bien_long :19/06/2021 
